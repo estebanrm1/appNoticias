@@ -1,0 +1,6 @@
+body{
+    background-image: url('../public/global-background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: 'Sarala', sans-serif;
+}
