@@ -9,7 +9,7 @@ function App() {
 
   return (
     <section className='body1 container mt-3 text-center'>
-    <h1 className='p-3 text-bg-secondary rounded'>Todo Noticias</h1>
+    <h1 className='p-3 text-bg-secondary rounded border-primary border '>Todo Noticias</h1>
     <hr />
     <div>
       <BuscadorNoticias></BuscadorNoticias>
